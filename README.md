@@ -1,1 +1,97 @@
 # CV
+​                                                                             **Asid Kouki**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Fecha y lugar de nacimiento**: 30 de Octubre de 1996
+
+
+
+**Dirección**: C/Juana Jugan 1,EDF7, PUERTA D, Jerez de la frontera,Cádiz
+
+
+
+**Emai**l:[sidokouki1@gmail.com](mailto:sidokouki1@gmail.com)
+
+
+
+**Teléfono:**698346384
+
+
+
+FORMACION ACADEMICA
+
+
+
+
+
+- 2014 Titulo de Bachillerato (Argelia)
+
+
+
+
+
+
+
+
+
+
+
+FORMACION COMPLEMENTARIA
+
+
+
+
+
+❏Noviembre 2017, Taller prelaboral y atención al cliente ( 110 horas).
+
+Fundacion Iter.
+
+
+
+
+
+INFORMATICA E IDIOMAS
+
+
+
+
+
+❏Conocimientos a nivel Usuario de:
+
+
+
+- Editor de gráficos: Adobe Photoshop
+
+
+
+- Manejo de Internet: Nivel usuario
+
+
+
+❏Idiomas : Inglés alto (hablado y escrito), Español medio ( hablado y escritos), Arabé(nativo)
+
+
+OTROS DATOS
+
+
+
+- Disponibilidad total e incorporación inmediata.
+
+
+
+- Capacidad de trabajo en equipo
