@@ -25,7 +25,7 @@
 
 
 
-**Emai**l:[sidokouki1@gmail.com](mailto:sidokouki@gmail.com)
+**Emai**l:[sidokouki@gmail.com](mailto:sidokouki@gmail.com)
 
 
 
