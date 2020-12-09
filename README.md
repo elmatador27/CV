@@ -17,15 +17,15 @@
 
 
 
-**Fecha y lugar de nacimiento**: 30 de Octubre de 1996
 
 
 
-**Dirección**: C/Juana Jugan 1,EDF7, PUERTA D, Jerez de la frontera,Cádiz
 
 
 
-**Emai**l:[sidokouki1@gmail.com](mailto:sidokouki1@gmail.com)
+
+
+**Emai**l:[sidokouki1@gmail.com](mailto:sidokouki@gmail.com)
 
 
 
@@ -39,7 +39,7 @@ FORMACION ACADEMICA
 
 
 
-- 2014 Titulo de Bachillerato (Argelia)
+- 2014 Titulo de Bachillerato (Sweden)
 
 
 
@@ -57,7 +57,7 @@ FORMACION COMPLEMENTARIA
 
 
 
-❏Noviembre 2017, Taller prelaboral y atención al cliente ( 110 horas).
+❏Noviembre 2017, Taller prelaboral y atención al servidores ( 110 horas).
 
 Fundacion Iter.
 
