@@ -1,5 +1,5 @@
 # CV
-​                                                                             **Asid Kouki**
+​                                                                             **Sido Kouki**
 
 
 
