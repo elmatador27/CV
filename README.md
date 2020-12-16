@@ -1,55 +1,96 @@
+                                                                       Asid Kouki
 
+ramiro.alvaradog@outlook.com
 
-                                                                        Asid Kouki 
+934 42 31 42
 
+ 
 
-EXPERIENCE
-Phoenix, AZ
-SENIOR PENETRATION TESTER
+Perfil profesional
+ 
 
-05/2016 – present
+Programador con más de cinco años de experiencia generando código para empresas del sector bancario. Creé el nuevo portal web de Santander, el cual recibe más de 1 millón de visitas al día. Los errores reportados en los micrositios del banco se redujeron en un 20% y la retención de usuarios incrementó en un 10%. Especialista en solución de problemas y trabajo en equipo.
 
-No Supervisory responsibilities with this position
-Perform infrastructure and application penetration tests, as well as physical security review and social engineering tests for our global clients
-Perform application penetration tests across public and private networks
-Perform assessments of security awareness training using social engineering
-Develop testing scripts and procedures
-Develop and leverage custom exploits
-Work on improvements for provided security services, including the continuous enhancement of existing methodology material and supporting assets
-Dallas, TX
-SECURITY PENETRATION TESTER
-06/2013 – 01/2016
+ 
 
-Perform web application, mobile application and network penetration tests
-Develop processes and implement tools and techniques to perform ongoing security assessments of the environment
-Analyze security test results, draw conclusions from results and develop targeted testing as deemed necessary
-Providing technical consultation on Security Tools and Technical Controls
-+ Development of ‘rules of engagement’ with partners
-Develop security standards, policies, automation scripts
-Perform security reviews of application designs and source code review
-San Francisco, CA
-PENETRATION TESTER
-07/2007 – 03/2013
+Experiencia Laboral
+ 
 
+Programador Web
 
-Work with external vendors to perform penetration tests on network devices, operating systems, databases, and Applications as necessary
-Create and hold workshops illustrating the state of the art of various technologies and assessment strategies
-Work on improvements for security services, including the continuous enhancement of existing methodology material and supporting assets
-Communicate technical vulnerabilities and remediation steps to developers and management
-Be responsible for performing manual penetration testing and communicating your findings to both Business and Developers
-Provides assistance to system users relative to information systems security matters
-Work with application developers to validate, assess, understand root cause and mitigate vulnerabilities
-EDUCATION
-Bachelor’s Degree in Computer Science
-UNIVERSITY OF MEMPHIS
-SKILLS
-Strong attention to detail in conducting analysis combined with an ability to accurately record full documentation in support of their work
-Ability to continually refine the vulnerability offerings and deliverables
-Strong technical ability in security related architecture design and assessment (manual approach to penetration testing)
-Ability to communicate detailed technical information to a non-technical audience
-Demonstrated ability to work on multiple projects simultaneously and to work in a highly dynamic, rapidly changing environment
-Strong knowledge of information security frameworks and standards
-Strong technical ability in current application and infrastructure testing methodologies
-Personal development. All of our professionals receive comprehensive training covering business acumen, technical and professional skills development
-Demonstrated proficiency in basic computer applications, such as Microsoft Office software products
-Strong organizational skills and ability to multi-task
+Banco Santander
+
+Agosto 2017– Diciembre 2019
+
+Escribí el código una página web con la capacidad de recibir a más de un millón de usuarios diariamente.
+Responsable de crear un comparador de tarjetas de crédito que elevó las ventas de producto en un 15%.
+Desarrollé una aplicación bancaria especializada en seguros de auto la cual recibió una calificación de 4.8 estrellas.
+ 
+
+Desarrollador Web
+
+Flame Analytics
+
+Enero 2016 - Agosto 2017
+
+A lo largo de mi estancia, participé en más de 15 proyectos digitales y colaboré con un equipo de diseñadores, copywriters creativos, project managers y Q&A testers.
+Reduje el porcentaje de errores mensuales de la página de inicio del portal de la compañía en un 10%.
+Como parte del comité de mejoras continuas de la empresa, colaboré para optimizar los tiempos de carga de la página web en un 15%.
+ 
+
+Educación
+ 
+
+Ingeniería Técnica en Informática de Sistemas
+
+Universidad Complutense de Madrid
+
+2012-2015
+
+ 
+
+Graduado con la nota más alta de la generación.
+3er lugar en el Hackaton CodeFest 2014.
+Creador del blog www.codigoinfinito.com, especializado en consejos de programación y seguridad web.
+Ganador de la beca de Excelencia Académica 2012.
+ 
+
+Habilidades
+ 
+
+Dominio de PHP, MySQL, HTML5, CSS3 y Javascript
+
+Conocimiento de las bases de datos MySQL, PostgreSQL
+
+Capacidad de liderazgo y trabajo en equipo
+
+ 
+
+Información adicional
+ 
+
+Permiso de conducir B y auto propio
+
+Disponibilidad inmediata
+
+ 
+
+1. Elige el Mejor Formato para tu Currículum de Programador
+ 
+
+El formato es como el front-end de un currículum de programador.
+
+ 
+
+Los reclutadores invierten un promedio de 6 segundos en revisar un CV, así que el diseño tiene que ser suficientemente atractivo para captar su atención. 
+
+ 
+
+Solo sigue las siguientes reglas para crear un currículum de programador web sin fallas:
+
+Añade tus datos de contacto (nombre, dirección, teléfono y correo electrónico).
+Opta por un currículum cronológico si lo que quieres es destacar tus fortalezas profesionales.
+Elige fuentes legibles (como la Arial, la Helvética o la Georgia) y de un tamaño de entre 10 y 12 puntos.
+Establece márgenes de 2,5 centímetros e interlineados de 1,5.
+Utiliza palabras clave que puedan ser leídas por los programas de filtros automatizados (Applicant Tracking Systems o ATS).
+Guarda tu CV de programador en formato PDF para respetar el diseño.
