@@ -102,8 +102,7 @@ Guarda tu CV de programador en formato PDF para respetar el diseño.
 
 Ingles C1
 
-ESpañol B1
+Español B1
 
-Arabé Nativo
 
 ****
