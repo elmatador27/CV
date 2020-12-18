@@ -67,6 +67,8 @@ Capacidad de liderazgo y trabajo en equipo
 
 **Información adicional**
 
+Piloto para 2 días
+
 
 Permiso de conducir B y auto propio
 
