@@ -1,6 +1,26 @@
                                                                        Asid Kouki
 
-ramiro.alvaradog@outlook.com
+
+
+
+
+![https://imgur.com/4VZkNiY](chilling.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sido.alvaradog@outlook.com
 
 934 42 31 42
 
