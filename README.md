@@ -1,12 +1,12 @@
+
                                                                        Asid Kouki
 
 
 
 
 
-![https://imgur.com/4VZkNiY](chilling.jpg)
 
-
+![enter image description here](https://i.imgur.com/Yk0j3om.jpg)
 
 
 
@@ -122,7 +122,7 @@ Guarda tu CV de programador en formato PDF para respetar el diseño.
 
 Ingles C1
 
-Español B1
+Español B2
 
 
 ****
